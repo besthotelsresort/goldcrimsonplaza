@@ -1,0 +1,4 @@
+Contact: mailto:security@goldcrimsonplaza.example
+Expires: 2027-07-24T06:12:52.313Z
+Preferred-Languages: en, de, fr
+Canonical: https://goldcrimsonplaza.onrender.com/.well-known/security.txt
