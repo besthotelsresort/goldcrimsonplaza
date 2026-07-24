@@ -1,0 +1,2 @@
+# goldcrimsonplaza
+Static site: goldcrimsonplaza
