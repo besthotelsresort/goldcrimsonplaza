@@ -1,0 +1,26 @@
+{
+  "name": "Gold Crimson Plaza",
+  "short_name": "Gold",
+  "description": "Gold Crimson Plaza: Understated luxury on a private shore",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#eef3f1",
+  "theme_color": "#17827a",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
